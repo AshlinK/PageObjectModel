@@ -1,0 +1,2 @@
+2018-09-20 20:21:41,675 +0530 [main] DEBUG (Page.java:62) - Initialized executables.chrome driver
+2018-09-20 20:22:10,587 +0530 [main] DEBUG (Page.java:71) - Navigated to https://www.zoho.in/
